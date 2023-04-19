@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>YPSIC 2022</title>
+  <title>YPSIC 2023</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -23,9 +23,9 @@
     <div class="container">
       <div class="row d-flex align-items-center">
       <div class=" col-lg-6 py-5 py-lg-0 order-2 order-lg-1" data-aos="fade-right">
-        <h1>Young Professionals Student Industry Connect 2022 </h1>
-        <h2> June 26-27 2022</h2>
-        <a href="https://in.explara.com/e/ypsic2022" class="btn-get-started scrollto">Register Now</a>
+        <h1>Young Professionals Student Industry Connect 2023 </h1>
+        <h2> June 24 and 25 2023</h2>
+        <a href="https://in.explara.com/e/ypsic2023" class="btn-get-started scrollto">Register Now</a>
       </div>
       <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left">
         <img src="assets/img/hero.png" class="img-fluid" alt="">
@@ -103,12 +103,12 @@
             <div class="content d-flex flex-column justify-content-center ps-0 ps-xl-4">
               <h3 data-aos="fade-in" data-aos-delay="100">About the Event</h3>
               <p data-aos="fade-in">
-              IEEE Young Professionals (Bangalore Section) in association with IEEE Bangalore Section is organizing <b>YP Student Industry Connect 2022 (YPSIC 2022)</b>, a once-in-a lifetime chance for students to network with industry professionals..
+              IEEE Young Professionals (Bangalore Section) in association with IEEE Bangalore Section is organizing <b>YP Student Industry Connect 2023 (YPSIC 2023)</b>, a once-in-a lifetime chance for students to network with industry professionals..
               </p>
               <br>
               <br>
               <p data-aos="fade-in">
-              Undergraduate and graduate students can connect with experts from industry, startups and research groups at YPSIC 2022. This would lead to talks about innovative ideas from the youthful talent pool that are closely related to current industry trends. The two-day event will feature <b>expert technical talks from industry professionals</b> as well as <b> live event with students to engage with IEEE YP</b>.
+              Undergraduate and graduate students can connect with experts from industry, startups and research groups at YPSIC 2023. This would lead to talks about innovative ideas from the youthful talent pool that are closely related to current industry trends. The two-day event will feature <b>expert technical talks from industry professionals</b> as well as <b> live event with students to engage with IEEE YP</b>.
  
 
               </p>
@@ -128,7 +128,7 @@
 
         <div class="section-title">
           <h2 data-aos="fade-in">BENEFITS</h2>
-          <p data-aos="fade-in">The IEEE YPSIC 2022 brings forth a great opportunity for both the students and the industries bringing people from both the communities with a variety of opportunities.</p>
+          <p data-aos="fade-in">The IEEE YPSIC 2023 brings forth a great opportunity for both the students and the industries bringing people from both the communities with a variety of opportunities.</p>
         </div>
 
         <div class="row content">
@@ -202,9 +202,9 @@
           <div class="images col-xl-5"></div>
           <div class="col-xl-7">
             <div class="content d-flex flex-column justify-content-center ps-0 ps-xl-4">
-              <h3 data-aos="fade-in" data-aos-delay="100">Speakers at YPSIC 2022</h3>
+              <h3 data-aos="fade-in" data-aos-delay="100">Speakers at YPSIC 2023</h3>
               <p data-aos="fade-in">
-              YPSIC 2022 provides a fantastic opportunity for students to learn from highly experienced speakers from all industries who are currently employed in top organisations in various roles. 
+              YPSIC 2023 provides a fantastic opportunity for students to learn from highly experienced speakers from all industries who are currently employed in top organisations in various roles. 
               </p>
               
               <p data-aos="fade-in">
@@ -312,7 +312,7 @@
           </tbody>
         </table>
         <center>
-        <a href="https://in.explara.com/e/ypsic2022" class="btn-register">Register Now</a>
+        <a href="https://in.explara.com/e/ypsic2023" class="btn-register">Register Now</a>
         </center>
        
 
@@ -336,7 +336,7 @@
           </div>
           <div class="col-lg-7">
             <p>
-            YPSIC 2022 is a unique networking event to connect leading industry professionals with undergraduate/postgraduate students. The event will enable students to understand industry trends and practices to be able to pursue careers related to their technical interests.
+            YPSIC 2023 is a unique networking event to connect leading industry professionals with undergraduate/postgraduate students. The event will enable students to understand industry trends and practices to be able to pursue careers related to their technical interests.
 
             </p>
           </div>
@@ -389,7 +389,7 @@
           </div>
           <div class="col-lg-7">
             <p>
-              This Event is tentatively planned for 26th-27th June 2022 at Atria Institute of Technology, Hebbal, Bengaluru.
+              This Event is tentatively planned for June 24th and 25th 2023 at Atria Institute of Technology, Hebbal, Bengaluru.
             </p>
           </div>
         </div><!-- End F.A.Q Item-->
