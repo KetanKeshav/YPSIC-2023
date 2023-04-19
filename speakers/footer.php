@@ -7,7 +7,7 @@
 
   <div class="row  justify-content-center">
     <div class="col-lg-6">
-      <h3>YPSIC 2022</h3>
+      <h3>YPSIC 2023</h3>
     </div>
   </div>
 
