@@ -43,11 +43,11 @@
 
         <div class="row no-gutters clients-wrap clearfix wow fadeInUp">
 
-          <div class="section-title mt-4">
+          <!-- <div class="section-title mt-4">
             <h2 data-aos="fade-in">Participating Companies for Placement Drive</h2>
-          </div> 
+          </div>  -->
 
-          <div class="col-lg-2 col-md-4 col-6 offset-1">
+          <!-- <div class="col-lg-2 col-md-4 col-6 offset-1">
             <div class="client-logo">
             <a href="https://www.muthootfinance.com/" target="_blank"> <img src="assets/img/clients/1.png" class="img-fluid" alt="" data-aos="flip-right" data-aos-delay="100" style="height:80px;width:225px"> </a>
             </div>
@@ -75,7 +75,7 @@
             <div class="client-logo">
             <a href="https://liberintechnologies.com/" target="_blank"> <img src="assets/img/clients/5.png" class="img-fluid" alt="" data-aos="flip-right" data-aos-delay="500" style="height:80px;width:225px"> </a>
             </div>
-          </div>
+          </div> -->
           
           <div class="col-lg-12 col-md-12 col-12">
           
@@ -180,7 +180,7 @@
     </section><!-- End Features Section -->
 
     <!-- ======= Features Section ======= -->
-    <section id="agenda" class="agenda section-bg">
+    <!-- <section id="agenda" class="agenda section-bg">
       <div class="container">
 
         <div class="section-title">
@@ -192,7 +192,7 @@
             <img src="assets/img/agenda.png" class="img-fluid" alt="">
           </div>
          
-        </div>
+        </div> -->
 
     <!-- Speakers Section Begins -->
     <section id="speakers" class="speakers section-bg">
@@ -209,11 +209,11 @@
               
               <p data-aos="fade-in">
                 <br>
-              <b>To learn more about the speakers, click on the button below.</b>        
+              <!-- <b>To learn more about the speakers, click on the button below.</b>         -->
                </p>
                <br>
                <p>
-               <a href="./speakers/" class="btn-register">Know More</a>
+               <a href="./speakers/" class="btn-register">Coming soon</a>
 </p>
             
             </div><!-- End .content-->
